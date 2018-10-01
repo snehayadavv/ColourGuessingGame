@@ -10,3 +10,5 @@ To install this game in your pc
 2. Write `git clone https://github.com/snehayadavv/ColourGuessingGame.git` in command line.
 
 3. Open colourGame.html file using any browser.
+
+Enjoy the game :)
