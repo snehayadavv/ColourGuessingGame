@@ -11,4 +11,6 @@ To install this game in your pc
 
 3. Open colourGame.html file using any browser.
 
+4. For given RGB value, the player guesses the colour. If the match is correct the colour of all blocks becomes same as the colour of the correct RGB value and game continues. If the player matches incorrectly, all blocks become same as the colour of the background.
+
 Enjoy the game :)
