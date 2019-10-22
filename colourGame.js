@@ -25,7 +25,7 @@ easyBtn.addEventListener("click",function(){
   }
 
 });
-/*hardBtn.addEventListener("click",function(){
+hardBtn.addEventListener("click",function(){
   easyBtn.classList.remove("selected");
   hardBtn.classList.add("selected");
   numSquares=6;
@@ -39,7 +39,7 @@ easyBtn.addEventListener("click",function(){
       squares[i].style.display = "block";
 
   }
-});*/
+});
 
 resetButton.addEventListener("click",function(){
   colors = generateRandomColors(numSquares);
